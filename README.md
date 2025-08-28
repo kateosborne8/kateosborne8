@@ -23,7 +23,7 @@
 <a href="https://youtu.be/PzPw-LXBwIQ"><i>Put Your Records On</i> by Group 121 for Web and Database Computing at UofA</a> <br/>
 
 <b>Some Data Analysis on the 2020 Paris Olympics to see which countries are beating the odds to success 🥇</b> <br/>
-<a href=""><i>Who is Really Winning the Olympics</i> by Kate Osborne<a> <br/>
+<a href="Who is Really Winning the Olympics.pdf"><i>Who is Really Winning the Olympics</i> by Kate Osborne<a> <br/>
 
 <h2>🤝 Connect with me...</h2>
 
